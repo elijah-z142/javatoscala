@@ -1,7 +1,8 @@
 Java to Scala (forked project - for original, see https://github.com/koofr/javatoscala )
 
-For automatic php to java conversions, see the runtime converter (http://www.runtimeconverter.com)
 =============
+
+### For automatic php to java conversions, see the runtime converter (http://www.runtimeconverter.com)
 
 Online Java to Scala converter
 
