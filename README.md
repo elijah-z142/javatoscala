@@ -1,4 +1,4 @@
-Java to Scala (forked project - for original, see https://github.com/koofr/javatoscala )
+# Java to Scala (forked project - for original, see https://github.com/koofr/javatoscala )
 
 =============
 
