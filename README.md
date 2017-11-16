@@ -4,6 +4,8 @@
 
 ### For automatic php to java conversions, see the runtime converter (http://www.runtimeconverter.com)
 
+### A running demo exists at http://java2scala.runtimeconverter.com/
+
 Online Java to Scala converter
 
 http://javatoscala.com
